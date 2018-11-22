@@ -1,0 +1,772 @@
+mysql> source /home/huwang/Desktop/hr.sql;
+Query OK, 0 rows affected (0.01 sec)
+
+ERROR 1049 (42000): Unknown database 'homework'
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 0 rows affected, 1 warning (0.09 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.11 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> source /home/huwang/Desktop/scott.sql;
+Query OK, 0 rows affected (0.00 sec)
+
+ERROR 1049 (42000): Unknown database 'shopping'
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.06 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.03 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> show tables;
++---------------------+
+| Tables_in_helloword |
++---------------------+
+| countries           |
+| departments         |
+| dept                |
+| emp                 |
+| employees           |
+| job_history         |
+| jobs                |
+| locations           |
+| regions             |
+| salgrade            |
+| shoppingcar         |
++---------------------+
+11 rows in set (0.00 sec)
+
+mysql> select * from emp;
++-------+--------+-----------+------+------------+------+---------+--------+
+| EMPNO | ENAME  | JOB       | MGR  | HIREDATE   | SAL  | COMM    | DEPTNO |
++-------+--------+-----------+------+------------+------+---------+--------+
+|  7369 | SMITH  | CLERK     | 7902 | 1980/12/17 |  800 |         | 20     |
+|  7499 | ALLEN  | SALESMAN  | 7698 | 1981/2/20  | 1600 | 300.00  | 30     |
+|  7521 | WARD   | SALESMAN  | 7698 | 1981/2/22  | 1250 | 500.00  | 30     |
+|  7566 | JONES  | MANAGER   | 7839 | 1981/4/2   | 2975 |         | 20     |
+|  7654 | MARTIN | SALESMAN  | 7698 | 1981/9/28  | 1250 | 1400.00 | 30     |
+|  7698 | BLAKE  | MANAGER   | 7839 | 1981/5/1   | 2850 |         | 30     |
+|  7782 | CLARK  | MANAGER   | 7839 | 1981/6/9   | 2450 |         | 10     |
+|  7788 | SCOTT  | ANALYST   | 7566 | 1987/4/19  | 3000 |         | 20     |
+|  7839 | KING   | PRESIDENT |      | 1981/11/17 | 5000 |         | 10     |
+|  7844 | TURNER | SALESMAN  | 7698 | 1981/9/8   | 1500 | 0.00    | 30     |
+|  7876 | ADAMS  | CLERK     | 7788 | 1987/5/23  | 1100 |         | 20     |
+|  7900 | JAMES  | CLERK     | 7698 | 1981/12/3  |  950 |         | 30     |
+|  7902 | FORD   | ANALYST   | 7566 | 1981/12/3  | 3000 |         | 20     |
+|  7934 | MILLER | CLERK     | 7782 | 1982/1/23  | 1300 |         | 10     |
++-------+--------+-----------+------+------------+------+---------+--------+
+14 rows in set (0.00 sec)
+
+mysql> select * from emp/G;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/G' at line 1
+mysql> select * from emp\G;
+*************************** 1. row ***************************
+   EMPNO: 7369
+   ENAME: SMITH
+     JOB: CLERK
+     MGR: 7902
+HIREDATE: 1980/12/17
+     SAL: 800
+    COMM: 
+  DEPTNO: 20
+*************************** 2. row ***************************
+   EMPNO: 7499
+   ENAME: ALLEN
+     JOB: SALESMAN
+     MGR: 7698
+HIREDATE: 1981/2/20
+     SAL: 1600
+    COMM: 300.00
+  DEPTNO: 30
+*************************** 3. row ***************************
+   EMPNO: 7521
+   ENAME: WARD
+     JOB: SALESMAN
+     MGR: 7698
+HIREDATE: 1981/2/22
+     SAL: 1250
+    COMM: 500.00
+  DEPTNO: 30
+*************************** 4. row ***************************
+   EMPNO: 7566
+   ENAME: JONES
+     JOB: MANAGER
+     MGR: 7839
+HIREDATE: 1981/4/2
+     SAL: 2975
+    COMM: 
+  DEPTNO: 20
+*************************** 5. row ***************************
+   EMPNO: 7654
+   ENAME: MARTIN
+     JOB: SALESMAN
+     MGR: 7698
+HIREDATE: 1981/9/28
+     SAL: 1250
+    COMM: 1400.00
+  DEPTNO: 30
+*************************** 6. row ***************************
+   EMPNO: 7698
+   ENAME: BLAKE
+     JOB: MANAGER
+     MGR: 7839
+HIREDATE: 1981/5/1
+     SAL: 2850
+    COMM: 
+  DEPTNO: 30
+*************************** 7. row ***************************
+   EMPNO: 7782
+   ENAME: CLARK
+     JOB: MANAGER
+     MGR: 7839
+HIREDATE: 1981/6/9
+     SAL: 2450
+    COMM: 
+  DEPTNO: 10
+*************************** 8. row ***************************
+   EMPNO: 7788
+   ENAME: SCOTT
+     JOB: ANALYST
+     MGR: 7566
+HIREDATE: 1987/4/19
+     SAL: 3000
+    COMM: 
+  DEPTNO: 20
+*************************** 9. row ***************************
+   EMPNO: 7839
+   ENAME: KING
+     JOB: PRESIDENT
+     MGR: 
+HIREDATE: 1981/11/17
+     SAL: 5000
+    COMM: 
+  DEPTNO: 10
+*************************** 10. row ***************************
+   EMPNO: 7844
+   ENAME: TURNER
+     JOB: SALESMAN
+     MGR: 7698
+HIREDATE: 1981/9/8
+     SAL: 1500
+    COMM: 0.00
+  DEPTNO: 30
+*************************** 11. row ***************************
+   EMPNO: 7876
+   ENAME: ADAMS
+     JOB: CLERK
+     MGR: 7788
+HIREDATE: 1987/5/23
+     SAL: 1100
+    COMM: 
+  DEPTNO: 20
+*************************** 12. row ***************************
+   EMPNO: 7900
+   ENAME: JAMES
+     JOB: CLERK
+     MGR: 7698
+HIREDATE: 1981/12/3
+     SAL: 950
+    COMM: 
+  DEPTNO: 30
+*************************** 13. row ***************************
+   EMPNO: 7902
+   ENAME: FORD
+     JOB: ANALYST
+     MGR: 7566
+HIREDATE: 1981/12/3
+     SAL: 3000
+    COMM: 
+  DEPTNO: 20
+*************************** 14. row ***************************
+   EMPNO: 7934
+   ENAME: MILLER
+     JOB: CLERK
+     MGR: 7782
+HIREDATE: 1982/1/23
+     SAL: 1300
+    COMM: 
+  DEPTNO: 10
+14 rows in set (0.00 sec)
+
+ERROR: 
+No query specified
+
+mysql> select sum(sal) from emp;
++----------+
+| sum(sal) |
++----------+
+|    29025 |
++----------+
+1 row in set (0.02 sec)
+
+mysql> select count(*) from emp;
++----------+
+| count(*) |
++----------+
+|       14 |
++----------+
+1 row in set (0.00 sec)
+
+mysql> select sal from emp where sal>2400;
++------+
+| sal  |
++------+
+| 2975 |
+| 2850 |
+| 2450 |
+| 3000 |
+| 5000 |
+| 3000 |
++------+
+6 rows in set (0.01 sec)
+
+mysql> select distinct(sal) from emp;
++------+
+| sal  |
++------+
+|  800 |
+| 1600 |
+| 1250 |
+| 2975 |
+| 2850 |
+| 2450 |
+| 3000 |
+| 5000 |
+| 1500 |
+| 1100 |
+|  950 |
+| 1300 |
++------+
+12 rows in set (0.00 sec)
+
+mysql> 
+mysql> mysql> select max(sal) from emp;
++----------+
+| max(sal) |
++----------+
+|     5000 |
++----------+
+1 row in set (0.01 sec)
+
+mysql> select min(sal) from emp;
++----------+
+| min(sal) |
++----------+
+|      800 |
++----------+
+1 row in set (0.00 sec)
+mysql> select sal,max(empno),count(sal) from emp group by sal having count(sal)>1;
++------+------------+------------+
+| sal  | max(empno) | count(sal) |
++------+------------+------------+
+| 1250 |       7654 |          2 |
+| 3000 |       7902 |          2 |
++------+------------+------------+
+2 rows in set (0.28 sec)
+
+
+
