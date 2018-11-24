@@ -1,0 +1,182 @@
+dianyingbiao
+huwang@ubuntu:~$ sudo mysql -u root -p
+[sudo] password for huwang: 
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 8
+Server version: 8.0.13 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| hello              |
+| hello_mysql        |
+| helloword          |
+| helloyou           |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+8 rows in set (0.84 sec)
+
+mysql> use hello;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> create table dianying(id int primary key not null auto_increment,
+    -> mingzi varchar(29),
+    -> nianfen int,
+    -> daoyan varchar(29),
+    -> pingfen int);
+Query OK, 0 rows affected (0.96 sec)
+
+mysql> insert into dianying(mingzi,nianfen,daoyan,pingfen) values('wobushiwangmao',2016,'zhaoxiaoxi',7.8),('tangrenjietanan',2015,'chensicheng',7.5),('yidaizongshi',2015,'wangjiawei',7.8),('gongfu',2004,'zhouxingchi',8.2),('wujiandao',2003,'liuweiqiang',9.1);
+Query OK, 5 rows affected (0.07 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+mysql> select * from dianying;
++----+-----------------+---------+-------------+---------+
+| id | mingzi          | nianfen | daoyan      | pingfen |
++----+-----------------+---------+-------------+---------+
+|  1 | wobushiwangmao  |    2016 | zhaoxiaoxi  |       8 |
+|  2 | tangrenjietanan |    2015 | chensicheng |       8 |
+|  3 | yidaizongshi    |    2015 | wangjiawei  |       8 |
+|  4 | gongfu          |    2004 | zhouxingchi |       8 |
+|  5 | wujiandao       |    2003 | liuweiqiang |       9 |
++----+-----------------+---------+-------------+---------+
+5 rows in set (0.00 sec)
+mysql> select * from dianying where mingzi like '%zongshi%';
++----+--------------+---------+------------+---------+
+| id | mingzi       | nianfen | daoyan     | pingfen |
++----+--------------+---------+------------+---------+
+|  3 | yidaizongshi |    2015 | wangjiawei |       8 |
++----+--------------+---------+------------+---------+
+1 row in set (0.02 sec)
+
+mysql> select * from dianying where daoyan like '%zh%';
++----+----------------+---------+-------------+---------+
+| id | mingzi         | nianfen | daoyan      | pingfen |
++----+----------------+---------+-------------+---------+
+|  1 | wobushiwangmao |    2016 | zhaoxiaoxi  |       8 |
+|  4 | gongfu         |    2004 | zhouxingchi |       8 |
++----+----------------+---------+-------------+---------+
+2 rows in set (0.00 sec)
+
+mysql> select * from dianying where nianfen like '2015';
++----+-----------------+---------+-------------+---------+
+| id | mingzi          | nianfen | daoyan      | pingfen |
++----+-----------------+---------+-------------+---------+
+|  2 | tangrenjietanan |    2015 | chensicheng |       8 |
+|  3 | yidaizongshi    |    2015 | wangjiawei  |       8 |
++----+-----------------+---------+-------------+---------+
+2 rows in set (0.02 sec)
+
+mysql> select * from dianying where pingfen>=8;
++----+-----------------+---------+-------------+---------+
+| id | mingzi          | nianfen | daoyan      | pingfen |
++----+-----------------+---------+-------------+---------+
+|  1 | wobushiwangmao  |    2016 | zhaoxiaoxi  |       8 |
+|  2 | tangrenjietanan |    2015 | chensicheng |       8 |
+|  3 | yidaizongshi    |    2015 | wangjiawei  |       8 |
+|  4 | gongfu          |    2004 | zhouxingchi |       8 |
+|  5 | wujiandao       |    2003 | liuweiqiang |       9 |
++----+-----------------+---------+-------------+---------+
+5 rows in set (0.00 sec)
+
+mysql> select * from dianying where pingfen>=9;
++----+-----------+---------+-------------+---------+
+| id | mingzi    | nianfen | daoyan      | pingfen |
++----+-----------+---------+-------------+---------+
+|  5 | wujiandao |    2003 | liuweiqiang |       9 |
++----+-----------+---------+-------------+---------+
+1 row in set (0.00 sec)
+
+shoucangningdan 
+huwang@ubuntu:~$ sudo mysql -u root -p
+[sudo] password for huwang: 
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 9
+Server version: 8.0.13 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| hello              |
+| hello_mysql        |
+| helloword          |
+| helloyou           |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+8 rows in set (0.11 sec)
+
+mysql> use hello;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> create table shoucangbiao(id int primary key auto_increment,
+    -> shoucang varchar(29));
+ERROR 1050 (42S01): Table 'shoucangbiao' already exists
+mysql> create table sc(id int primary key auto_increment, shoucang varchar(29));
+Query OK, 0 rows affected (0.07 sec)
+mysql> insert into sc(shoucang) values('huaping'),('youpiao'),('ciqi');
+Query OK, 3 rows affected (0.05 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select * from sc;
++----+----------+
+| id | shoucang |
++----+----------+
+|  1 | huaping  |
+|  2 | youpiao  |
+|  3 | ciqi     |
++----+----------+
+3 rows in set (0.00 sec)
+
+mysql> delete from sc where id=2;
+Query OK, 1 row affected (0.09 sec)
+
+mysql> select * from sc;
++----+----------+
+| id | shoucang |
++----+----------+
+|  1 | huaping  |
+|  3 | ciqi     |
++----+----------+
+2 rows in set (0.00 sec)
+
+mysql> select shoucang from sc;
++----------+
+| shoucang |
++----------+
+| huaping  |
+| ciqi     |
++----------+
+2 rows in set (0.00 sec)
+
+biaoyonghu
+
